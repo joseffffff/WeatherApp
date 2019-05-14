@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conoce el tiempo del mundo</string>
+    <string name="dilluns">Lunes</string>
+    <string name="dimarts">Martes</string>
+    <string name="dimecres">Miércoles</string>
+    <string name="dijous">Jueves</string>
+    <string name="divendres">Viernes</string>
+    <string name="dissabte">Sábado</string>
+    <string name="diumenge">Domingo</string>
+    <string name="gener">Enero</string>
+    <string name="febrer">Febrero</string>
+    <string name="març">Marzo</string>
+    <string name="abril">Abril</string>
+    <string name="maig">Mayo</string>
+    <string name="juny">Junio</string>
+    <string name="juliol">Julio</string>
+    <string name="agost">Agosto</string>
+    <string name="setembre">Septiembre</string>
+    <string name="octubre">Octubre</string>
+    <string name="novembre">Noviembre</string>
+    <string name="desembre">Diciembre</string>
+    <string name="error404">Error 404\\nCiudad no encontrada.</string>
+    <string name="fraseActivityMain">Introduce una ciudad:</string>
+    <string name="buttonText">Busca</string>
+    <string name="media">Media:</string>
+    <string name="errorEmptyCity">Introduce una ciudad.</string>
+</resources>

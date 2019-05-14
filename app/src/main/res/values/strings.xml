@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Weather arround the world</string>
+    <string name="dilluns">Monday</string>
+    <string name="dimarts">Tuesday</string>
+    <string name="dimecres">Wednesday</string>
+    <string name="dijous">Thursday</string>
+    <string name="divendres">Friday</string>
+    <string name="dissabte">Saturday</string>
+    <string name="diumenge">Sunday</string>
+    <string name="gener">January</string>
+    <string name="febrer">February</string>
+    <string name="març">March</string>
+    <string name="abril">April</string>
+    <string name="maig">May</string>
+    <string name="juny">June</string>
+    <string name="juliol">July</string>
+    <string name="agost">August</string>
+    <string name="setembre">September</string>
+    <string name="octubre">October</string>
+    <string name="novembre">November</string>
+    <string name="desembre">December</string>
+    <string name="error404">Error 404\\nCity not found.</string>
+    <string name="fraseActivityMain">Introduce a city:</string>
+    <string name="buttonText">Search</string>
+    <string name="media">Average:</string>
+    <string name="errorEmptyCity">Introduce a city.</string>
+</resources>

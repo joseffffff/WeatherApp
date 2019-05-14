@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coneix el temps del mon</string>
+    <string name="dilluns">Dilluns</string>
+    <string name="dimarts">Dimarts</string>
+    <string name="dimecres">Dimecres</string>
+    <string name="dijous">Dijous</string>
+    <string name="divendres">Divendres</string>
+    <string name="dissabte">Dissabte</string>
+    <string name="diumenge">Diumenge</string>
+    <string name="gener">Gener</string>
+    <string name="febrer">Febrer</string>
+    <string name="març">Març</string>
+    <string name="abril">Abril</string>
+    <string name="maig">Maig</string>
+    <string name="juny">Juny</string>
+    <string name="juliol">Juliol</string>
+    <string name="agost">Agost</string>
+    <string name="setembre">Setembre</string>
+    <string name="octubre">Octubre</string>
+    <string name="novembre">Novembre</string>
+    <string name="desembre">el Desembre</string>
+    <string name="error404">Error 404\\nNo es pot trobar la ciutat introduida.</string>
+    <string name="fraseActivityMain">Introdueix el nom d\'una ciutat:</string>
+    <string name="buttonText">Busca</string>
+    <string name="media">Mitja:</string>
+    <string name="errorEmptyCity">Introdueix alguna cosa.</string>
+</resources>
